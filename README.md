@@ -8,3 +8,4 @@
 <h4> Clock Prescaler nastavimo z deliteljem 4. Kolikšna je sedaj preskalirana frekvenca takta fpreskalirana?</h4>
 <p> 4 MHz</p>
 <h4>Sampling time (čas vzorčenja tvz_ciklih) spremenite na 239.5 ciklov. Pravi čas vzorčenja se nato poveča še za 12 ciklov. Koliko znaša pravi čas vzorčenja tvz v mikro sekundah?</h4>
+<p>62,875 µs.</p>
